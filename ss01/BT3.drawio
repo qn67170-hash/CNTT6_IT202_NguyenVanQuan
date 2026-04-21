@@ -1,0 +1,110 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Wu15gp7Hm8BdfzaiSkr5">
+    <mxGraphModel dx="1193" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-2" edge="1" parent="1" source="t2LG4mHw0YLMwWvMlcQX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="t2LG4mHw0YLMwWvMlcQX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-3" edge="1" parent="1" source="t2LG4mHw0YLMwWvMlcQX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="t2LG4mHw0YLMwWvMlcQX-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-4" edge="1" parent="1" source="t2LG4mHw0YLMwWvMlcQX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="t2LG4mHw0YLMwWvMlcQX-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-34" edge="1" parent="1" source="t2LG4mHw0YLMwWvMlcQX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="t2LG4mHw0YLMwWvMlcQX-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="STUDENTS" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Fullname" vertex="1">
+          <mxGeometry height="80" width="120" x="20" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Class" vertex="1">
+          <mxGeometry height="80" width="120" x="150" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;b data-path-to-node=&quot;11,1,1,0,0&quot; data-index-in-node=&quot;0&quot;&gt;&lt;u&gt;StudentID&lt;/u&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="160" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-10" edge="1" parent="1" source="t2LG4mHw0YLMwWvMlcQX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.569;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;" target="t2LG4mHw0YLMwWvMlcQX-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value=" BOOKS" vertex="1">
+          <mxGeometry height="60" width="120" x="780" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;b data-index-in-node=&quot;0&quot; data-path-to-node=&quot;8,1,1,0,0&quot;&gt;&lt;u&gt;BookID&lt;/u&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="690" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Author" vertex="1">
+          <mxGeometry height="80" width="120" x="730" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;b data-index-in-node=&quot;0&quot; data-path-to-node=&quot;8,0,1,0,0&quot;&gt;Title &lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="860" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-20" edge="1" parent="1" source="t2LG4mHw0YLMwWvMlcQX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.569;entryY=1.021;entryDx=0;entryDy=0;entryPerimeter=0;" target="t2LG4mHw0YLMwWvMlcQX-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-21" edge="1" parent="1" source="t2LG4mHw0YLMwWvMlcQX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.331;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;" target="t2LG4mHw0YLMwWvMlcQX-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-29" edge="1" parent="1" source="t2LG4mHw0YLMwWvMlcQX-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="t2LG4mHw0YLMwWvMlcQX-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="LOAN_CARDS" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;code data-path-to-node=&quot;4,1,1,1,0&quot; data-index-in-node=&quot;12&quot;&gt;&lt;u&gt;CardID&lt;/u&gt;&lt;/code&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="410" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="LoanDate" vertex="1">
+          <mxGeometry height="80" width="120" x="480" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="DueDate" vertex="1">
+          <mxGeometry height="80" width="120" x="310" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-27" edge="1" parent="1" source="t2LG4mHw0YLMwWvMlcQX-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.667;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="t2LG4mHw0YLMwWvMlcQX-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="300" />
+              <mxPoint x="390" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-28" edge="1" parent="1" source="t2LG4mHw0YLMwWvMlcQX-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.375;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" target="t2LG4mHw0YLMwWvMlcQX-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-32" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="t2LG4mHw0YLMwWvMlcQX-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="255" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-31" edge="1" parent="1" source="t2LG4mHw0YLMwWvMlcQX-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.029;entryY=0.408;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="602.3199999999999" y="247.64" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-35" edge="1" parent="1" source="t2LG4mHw0YLMwWvMlcQX-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="t2LG4mHw0YLMwWvMlcQX-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-33" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="1:N" vertex="1">
+          <mxGeometry height="80" width="80" x="270" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-36" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;code data-path-to-node=&quot;7,0,0&quot; data-index-in-node=&quot;23&quot;&gt;STATUS&lt;/code&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="600" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-38" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;li&gt;&lt;p data-path-to-node=&quot;4,0,0&quot;&gt;&lt;b data-path-to-node=&quot;4,0,0&quot; data-index-in-node=&quot;0&quot;&gt;Thực thể (Hình chữ nhật):&lt;/b&gt;&lt;/p&gt;&lt;ul data-path-to-node=&quot;4,0,1&quot;&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;4,0,1,0,0&quot;&gt;&lt;b data-path-to-node=&quot;4,0,1,0,0&quot; data-index-in-node=&quot;0&quot;&gt;STUDENTS:&lt;/b&gt; Lưu thông tin người mượn.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;4,0,1,1,0&quot;&gt;&lt;b data-path-to-node=&quot;4,0,1,1,0&quot; data-index-in-node=&quot;0&quot;&gt;LOAN_CARDS:&lt;/b&gt; Lưu thông tin chung của một lần mượn (số phiếu, ngày mượn).&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;4,0,1,2,0&quot;&gt;&lt;b data-path-to-node=&quot;4,0,1,2,0&quot; data-index-in-node=&quot;0&quot;&gt;BOOKS:&lt;/b&gt; Lưu thông tin về các cuốn sách trong kho.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;4,1,0&quot;&gt;&lt;b data-path-to-node=&quot;4,1,0&quot; data-index-in-node=&quot;0&quot;&gt;Thuộc tính (Hình Oval):&lt;/b&gt;&lt;/p&gt;&lt;ul data-path-to-node=&quot;4,1,1&quot;&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;4,1,1,0,0&quot;&gt;&lt;b data-path-to-node=&quot;4,1,1,0,0&quot; data-index-in-node=&quot;0&quot;&gt;STUDENTS:&lt;/b&gt; &lt;code data-path-to-node=&quot;4,1,1,0,0&quot; data-index-in-node=&quot;10&quot;&gt;StudentID&lt;/code&gt; (PK), &lt;code data-path-to-node=&quot;4,1,1,0,0&quot; data-index-in-node=&quot;26&quot;&gt;Fullname&lt;/code&gt;, &lt;code data-path-to-node=&quot;4,1,1,0,0&quot; data-index-in-node=&quot;36&quot;&gt;Class&lt;/code&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;4,1,1,1,0&quot;&gt;&lt;b data-path-to-node=&quot;4,1,1,1,0&quot; data-index-in-node=&quot;0&quot;&gt;LOAN_CARDS:&lt;/b&gt; &lt;code data-path-to-node=&quot;4,1,1,1,0&quot; data-index-in-node=&quot;12&quot;&gt;CardID&lt;/code&gt; (PK), &lt;code data-path-to-node=&quot;4,1,1,1,0&quot; data-index-in-node=&quot;25&quot;&gt;LoanDate&lt;/code&gt;, &lt;code data-path-to-node=&quot;4,1,1,1,0&quot; data-index-in-node=&quot;35&quot;&gt;DueDate&lt;/code&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;4,1,1,2,0&quot;&gt;&lt;b data-path-to-node=&quot;4,1,1,2,0&quot; data-index-in-node=&quot;0&quot;&gt;BOOKS:&lt;/b&gt; &lt;code data-path-to-node=&quot;4,1,1,2,0&quot; data-index-in-node=&quot;7&quot;&gt;BookID&lt;/code&gt; (PK), &lt;code data-path-to-node=&quot;4,1,1,2,0&quot; data-index-in-node=&quot;20&quot;&gt;Title&lt;/code&gt;, &lt;code data-path-to-node=&quot;4,1,1,2,0&quot; data-index-in-node=&quot;27&quot;&gt;Author&lt;/code&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="300" width="300" x="70" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="t2LG4mHw0YLMwWvMlcQX-39" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;p data-path-to-node=&quot;7&quot;&gt;&lt;b data-path-to-node=&quot;7&quot; data-index-in-node=&quot;0&quot;&gt;Vấn đề:&lt;/b&gt; Nếu gắn &lt;code data-path-to-node=&quot;7&quot; data-index-in-node=&quot;16&quot;&gt;STATUS&lt;/code&gt; vào &lt;code data-path-to-node=&quot;7&quot; data-index-in-node=&quot;27&quot;&gt;LOAN_CARDS&lt;/code&gt;, bạn chỉ có thể tích &quot;Đã trả&quot; cho cả phiếu (cả 3 cuốn). Nếu gắn vào &lt;code data-path-to-node=&quot;7&quot; data-index-in-node=&quot;106&quot;&gt;BOOKS&lt;/code&gt;, cuốn sách đó sẽ luôn ở trạng thái &quot;Đã trả&quot; trong mọi giao dịch khác.&lt;/p&gt;&lt;p data-path-to-node=&quot;8&quot;&gt;&lt;b data-path-to-node=&quot;8&quot; data-index-in-node=&quot;0&quot;&gt;Giải pháp:&lt;/b&gt; Thuộc tính &lt;code data-path-to-node=&quot;8&quot; data-index-in-node=&quot;22&quot;&gt;STATUS&lt;/code&gt; phải được đặt vào &lt;b data-path-to-node=&quot;8&quot; data-index-in-node=&quot;47&quot;&gt;Mối quan hệ&lt;/b&gt; giữa &lt;code data-path-to-node=&quot;8&quot; data-index-in-node=&quot;64&quot;&gt;LOAN_CARDS&lt;/code&gt; và &lt;code data-path-to-node=&quot;8&quot; data-index-in-node=&quot;78&quot;&gt;BOOKS&lt;/code&gt;.&lt;/p&gt;&lt;p data-path-to-node=&quot;9&quot;&gt;Trong cơ sở dữ liệu, khi một mối quan hệ Nhiều - Nhiều (N:N) xảy ra (1 phiếu có nhiều sách, 1 cuốn sách có thể xuất hiện trong nhiều phiếu mượn khác nhau theo thời gian), nó sẽ tạo ra một thực thể trung gian (thường gọi là &lt;b data-path-to-node=&quot;9&quot; data-index-in-node=&quot;223&quot;&gt;Chi tiết phiếu mượn&lt;/b&gt;).&lt;/p&gt;&lt;blockquote data-path-to-node=&quot;10&quot;&gt;&lt;p data-path-to-node=&quot;10,0&quot;&gt;&lt;b data-path-to-node=&quot;10,0&quot; data-index-in-node=&quot;0&quot;&gt;Logic:&lt;/b&gt; Bằng cách đặt &lt;code data-path-to-node=&quot;10,0&quot; data-index-in-node=&quot;21&quot;&gt;STATUS&lt;/code&gt; tại đây, thủ thư có thể quản lý trạng thái của &lt;b data-path-to-node=&quot;10,0&quot; data-index-in-node=&quot;75&quot;&gt;từng dòng sách&lt;/b&gt; trong một phiếu mượn cụ thể. Cuốn A ghi &quot;Đã trả&quot;, cuốn B ghi &quot;Chưa trả&quot; trên cùng một mã phiếu.&lt;/p&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="310" width="310" x="630" y="460" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
